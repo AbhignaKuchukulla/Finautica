@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+finautica-env/
+
+# Database
+*.db
+*.sqlite3
+finautica.db
+
+# Environment/config files
+.env
+config.py
+
+# Frontend dependencies
+node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
